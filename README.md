@@ -7,7 +7,7 @@
 
 ## Kali Linux and Parrot Security
 
-### Step 1. git clone https://github.com/The-Dark-Troopers/Darkmap.git
+### Step 1. git clone https://github.com/The-Dark-Troopers/Octopus.git
 
 ### Step 2. cd Octopus/
 
@@ -21,7 +21,7 @@
 
 ## Termux
 
-### Step 1. git clone https://github.com/The-Dark-Troopers/Darkmap.git
+### Step 1. git clone https://github.com/The-Dark-Troopers/Octopus.git
 
 ### Step 2. cd Octopus/
 
